@@ -1,6 +1,7 @@
 9GAG-Android (deprecated)
 =====================
 Fork from stormzhang!
+Update by typhoongu!
 
 ## Android学习之路
 
